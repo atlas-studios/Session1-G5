@@ -24,7 +24,7 @@
         <remove_tags>false</remove_tags>
         <external_command></external_command>
         <repositories>
-            <repository type="git" url="https://github.com/atlas-studios/Session1-G1">
+            <repository type="git" url="https://github.com/atlas-studios/Session1-G5">
                 <mapping local="" repository=""/>
             </repository>
         </repositories>
