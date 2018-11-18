@@ -1004,3 +1004,5 @@
 炼丹房	alchemy lab
 镇西王	Western Garrison Liege Lord
 残念	Dead's last thoughts
+亡语药剂	Dead-rattle serum
+亡语药剂	Dead-Rattle Serum
