@@ -1013,3 +1013,4 @@
 暗影牧师	Shadow Priest
 牧亡灵湖	Lake of the Dead
 暗牧	Shadow Priest
+牧师	Priest
