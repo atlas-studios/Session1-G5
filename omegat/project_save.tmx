@@ -3704,6 +3704,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>【亡语药剂】：可使用次数100/100。使你复活一具尸体，这个效果无法作用于20级以上生物。当尸体复活时有1%的几率转化为你的奴仆。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T151931Z" creationid="User" creationdate="20181118T151931Z">
+        <seg>[Dead-Rattle Serum]: Number of uses 100/100. Allows you to revived a dead. This serum cannot be used at organisms which are more than level 20. There is only 1% rate of the revived target to become your servant. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一个多时辰后……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180818T074358Z" creationid="USER" creationdate="20180807T063036Z">
@@ -8338,6 +8346,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林杰握着亡语药剂，眉头紧锁，寻找合适的目标。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T151539Z" creationid="User" creationdate="20181118T151539Z">
+        <seg>Lin Jie held the Dead-Rattle Serum with his brows kniited. He searched for a right target. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林杰眼神一寒，这才开服多久？就有人包场？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T065205Z" creationid="crystalchua" creationdate="20181120T053917Z">
@@ -12275,8 +12291,8 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       <tuv lang="ZH-CN">
         <seg>牧亡灵湖岸边，如同十八层地狱。横七竖八的尸体伸出干枯的手掌，仿佛前方还有求生的希望！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181118T152242Z" creationid="User" creationdate="20181118T152242Z">
-        <seg>HIIIIII牧亡灵湖岸边，如同十八层地狱。横七竖八的尸体伸出干枯的手掌，仿佛前方还有求生的希望！</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T150345Z" creationid="User" creationdate="20181118T152242Z">
+        <seg>The Lake of the Dead looked like hell itself. Corpses that has been left at sixes and sevens stretched out their skeleton palms, as though as there was still hope for living.</seg>
       </tuv>
     </tu>
     <tu>
