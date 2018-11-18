@@ -720,8 +720,8 @@
       <tuv lang="ZH-CN">
         <seg>“呼……”林杰一屁股坐在地上，取出面包和淡水进食，恢复战斗中损耗殆尽的生命值和魔法值。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181118T154406Z" creationid="User" creationdate="20181118T154406Z">
-        <seg>"Phew..." Lin Jie sat on the ground then he took out bread and water to consume, to regain his HP and </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T145844Z" creationid="User" creationdate="20181118T154406Z">
+        <seg>"Phew..." Lin Jie sat on the ground then he took out bread and water to consume, to regain his HP and mana that are lost in the battle. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,6 +1750,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005711Z" creationid="USER" creationdate="20180804T023005Z">
         <seg>"You are now just a lonely man in your final moments, and yet you are not putting up a struggle. Hmph, don't tell me that you still have a dying wish?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“如果我是你，就不会这么随意的找地方休息。”一个严肃的女声突然在身后响起，“若是有居心叵测之人，你早就被杀掉级，还会失去所有战利品。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T150930Z" creationid="User" creationdate="20181118T150930Z">
+        <seg>"If I were you, I wouldn't just randomly find a place to rest." Suddenly behind him, there was a female voice which sounded serious.</seg>
       </tuv>
     </tu>
     <tu>
