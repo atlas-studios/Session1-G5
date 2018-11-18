@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>3级稀有精英攻击林杰的命中率是100%，而下降了10%后，就有了出现奇迹的机会！林杰的运气极好，凭借连续2次10%的未命中率躲了过去！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T153119Z" creationid="User" creationdate="20181118T153119Z">
+        <seg>Level 3 rare Elite Dead has a 100% accuracy, after it was lowered by 10%, miracle happened! With luck, he managed to dodge the attacks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>MISS！MISS！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T150936Z" creationid="User" creationdate="20181118T150936Z">
@@ -13194,6 +13202,14 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T152807Z" creationid="User" creationdate="20181118T152130Z">
         <seg>Qiu Yuan used the most basic skill of Shadow Priest -- Shadow Word: Create a shadow to attack the enemy, dealing 5 shadow damage per second (damage determined by skill level and Magic Power.), continues for 6 seconds. When this skill hit the enemy's eyes, it lowers 10% of the enemy's accuracy. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>秋远既然手握幽影法杖并且出现在这里，想必是接受了魅影之心的后续任务——收集骨粉！骨粉的价格虽然不高，但是爆率极低，并且只有在这里才能够出产。在接受任务之后，NPC会将玩家传送到牧亡灵湖岸边，不过这里并不刷新怪物，所以需要寻找到四个符文阵才能够暂时拥有复活尸体的能力。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T154654Z" creationid="User" creationdate="20181118T154654Z">
+        <seg>Since Qiu Yuan was here with her Looming Staff, then she should have accepted the post task of [Heart of Spectre]--Collect bone ashes! Bone ashes were not expensive but the drop rate was very low, and could only appear in here. When the task was accepted, NPC will teleport the player to the Lake of the Dead. Monster will not be regenerated here so players would have to find four Talisman Circle to have the power of reviving corpses temporarily.  </seg>
       </tuv>
     </tu>
     <tu>
