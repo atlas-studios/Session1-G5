@@ -6963,8 +6963,8 @@ with the time that the elixir medical efficacy lasted also having extended up to
       <tuv lang="ZH-CN">
         <seg>她穿着一身浅紫色的修身长袍，手握一把幽影法杖，这是任务【鬼魅之心】的奖励，虽然是白板装备，但是除了没有附加属性之外丝毫不逊色与青铜装，是玩家前期能够获得的最好的白板武器之一！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181118T150844Z" creationid="User" creationdate="20181118T150844Z">
-        <seg>She wore a lilac robe and held a Looming Stave. That was the rewards from [Heart of Spectre]. Although that was a common white equipment without any additional attributes, it was comparable to the laurel bronze rank equipments. It was one of the best equipments players in the early stages could have!  </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T152158Z" creationid="User" creationdate="20181118T150844Z">
+        <seg>She wore a lilac robe and held a Looming Staff. That was the rewards from [Heart of Spectre]. Although that was a common white equipment without any additional attributes, it was comparable to the laurel bronze rank equipments. It was one of the best equipments players in the early stages could have!  </seg>
       </tuv>
     </tu>
     <tu>
@@ -13186,6 +13186,14 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T151431Z" creationid="User" creationdate="20181118T151421Z">
         <seg>Qiu Yuan...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>秋远刚才使用的是暗影牧师最基础的技能暗言术：制造一团暗影攻击敌人，造成固定每秒5点暗影伤害（受技能等级与魔法攻击力影响），持续6秒，当这个技能命中对方眼部，则降低10%命中率。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T152807Z" creationid="User" creationdate="20181118T152130Z">
+        <seg>Qiu Yuan used the most basic skill of Shadow Priest -- Shadow Word: Create a shadow to attack the enemy, dealing 5 shadow damage per second (damage determined by skill level and Magic Power.), continues for 6 seconds. When this skill hit the enemy's eyes, it lowers 10% of the enemy's accuracy. </seg>
       </tuv>
     </tu>
     <tu>
