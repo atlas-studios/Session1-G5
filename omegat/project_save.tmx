@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“玩家？？（姓名隐藏）加入队伍。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T154921Z" creationid="User" creationdate="20181118T154921Z">
+        <seg>-- "Player??(Hidden name) joined the team."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180814T162010Z" creationid="Joey" creationdate="20180814T162010Z">
@@ -8972,6 +8980,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林杰点头，发送了一个组队申请。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T154823Z" creationid="User" creationdate="20181118T154823Z">
+        <seg>Lin Jie nodded and sent a team request to her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林杰的攻击被银盾挡了下来，巨大的力量震得银盾虎口生疼。银盾若是没点本事怎么能混成铁壁帝国团长？不仅拥有青铜盾牌，还有援护技能，相当强大！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="crystalchua" changedate="20181121T154937Z" creationid="crystalchua" creationdate="20181121T154910Z">
@@ -13322,6 +13338,14 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T154654Z" creationid="User" creationdate="20181118T154654Z">
         <seg>Since Qiu Yuan was here with her Looming Staff, then she should have accepted the post task of [Heart of Spectre]--Collect bone ashes! Bone ashes were not expensive but the drop rate was very low, and could only appear in here. When the task was accepted, NPC will teleport the player to the Lake of the Dead. Monster will not be regenerated here so players would have to find four Talisman Circle to have the power of reviving corpses temporarily.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>秋远的脾气比牛倔，这一点他很明白。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T154853Z" creationid="User" creationdate="20181118T154853Z">
+        <seg>He knows Qiu Yuan was as stubborn as an ox. </seg>
       </tuv>
     </tu>
     <tu>
