@@ -8644,6 +8644,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林杰只剩下一道血皮！生命药剂还在冷却中，接下来一击至关重要，如果还是二连斩……似乎为了印证林杰的猜测，稀有精英高举武器，二连斩降临！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T153739Z" creationid="User" creationdate="20181118T153222Z">
+        <seg>Lin Jie's HP was extremely low and the Health Potion was still in cool down. The next blow was very critical. If it was a double strike... As if to prove, the Dead raised its sword ,Lin Jie was about to take another double strike! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林杰咬牙，生命值只剩下110点，最多承受3次普通攻击！而稀有精英的生命值还需要自己砍上三剑！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T151826Z" creationid="User" creationdate="20181118T151347Z">
@@ -14110,8 +14118,8 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       <tuv lang="ZH-CN">
         <seg>被击飞的林杰灌下一瓶特效生命恢复药剂，生命值全满却增加60点上限，以最快的速度回到三棵树之间。不过当大树被稀有精英一招二连斩轻易砍断的时候，林杰明白卡位已经没用了！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181118T150838Z" creationid="User" creationdate="20181118T150838Z">
-        <seg>Lin Jie drank a vial of special health regeneration potion which allows him to regain back his HP while increasing his max HP by 60. He went back into the trees as fast as he could but when he saw the trees fell, one by another, he knows that the box out method could not work anymore.  </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T153240Z" creationid="User" creationdate="20181118T150838Z">
+        <seg>Lin Jie drank a vial of special Health Regeneration Potion which allows him to regain back his HP while increasing his max HP by 60. He went back into the trees as fast as he could but when he saw the trees fell, one by another, he knows that the box out method could not work anymore.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -15648,6 +15656,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T151202Z" creationid="User" creationdate="20181118T151202Z">
         <seg>-12!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－13！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T153102Z" creationid="User" creationdate="20181118T153102Z">
+        <seg>-13!</seg>
       </tuv>
     </tu>
     <tu>
