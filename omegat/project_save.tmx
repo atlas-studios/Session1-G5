@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>MISS！MISS！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T150936Z" creationid="User" creationdate="20181118T150936Z">
+        <seg>MISS! MISS!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“玩家银盾的小队对你发动恶意攻击，你有20分钟的正当防卫时间！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T084801Z" creationid="crystalchua" creationdate="20181120T084801Z">
@@ -7318,6 +7326,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005958Z" creationid="USER" creationdate="20180804T040249Z">
         <seg>It was as if the nameless one had never stepped forth into this universe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>就在这个时候，稀有精英的双眼蒙上一层黑雾！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T150922Z" creationid="User" creationdate="20181118T150922Z">
+        <seg>At this moment, its eyes was covered with black fog!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15680,6 +15696,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T153102Z" creationid="User" creationdate="20181118T153102Z">
         <seg>-13!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－16（弱点伤害）</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T150940Z" creationid="User" creationdate="20181118T150940Z">
+        <seg>-16!</seg>
       </tuv>
     </tu>
     <tu>
