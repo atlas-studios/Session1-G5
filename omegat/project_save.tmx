@@ -24,8 +24,8 @@
       <tuv lang="ZH-CN">
         <seg>——“你击杀了迷失士兵麦尔，你获得经验值2100（越级击杀），你获得梅尔小镇声望100.”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181118T151626Z" creationid="User" creationdate="20181118T151626Z">
-        <seg>--"You have slain the Lost Soldier Myer, 200 EXP gained (Defeat higher level monster), and 100 Mayer Town's Reputation gained."</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T154605Z" creationid="User" creationdate="20181118T151626Z">
+        <seg>--"You have slain the Lost Soldier Myer, 200 XP gained (Defeat higher level monster), and 100 Mayer Town's Reputation gained."</seg>
       </tuv>
     </tu>
     <tu>
@@ -6715,8 +6715,8 @@ with the time that the elixir medical efficacy lasted also having extended up to
       <tuv lang="ZH-CN">
         <seg>大树应声而断！稀有精英大吼一声，攻击落到林杰的胸口，将其击飞了出去！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181118T145729Z" creationid="User" creationdate="20181118T145729Z">
-        <seg>The tree fell. The Dead roared and its attack landed on Lin Jie's chest and this caused Lin Jie to fly!</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T154542Z" creationid="User" creationdate="20181118T145729Z">
+        <seg>The tree fell. The Dead roared and its attack landed on Lin Jie's chest and this sent Lin Jie flying!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7266,8 +7266,8 @@ Two fingers stabbed forward towards his opponent's eyes like arrows.</seg>
       <tuv lang="ZH-CN">
         <seg>将死灵残念收入背包，林杰继续寻找下一个目标。只求稳，不求快！重生一世，林杰的心态老成稳重了许多！亡灵的经验值非常丰厚，加上林杰寻找目标相当有条理，在补给品没有丝毫损耗的情况下，已经击杀了9只亡灵！背包中也多了9个死灵残念，除此之外，还爆出12份骨粉，估计能够卖出4个铜币。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181118T152835Z" creationid="User" creationdate="20181118T153454Z">
-        <seg>Lin Jie put the Dead's last thoughts into his bag before looking for the next target. He aimed to be steady, not fast. Re-born once made Lin Jie to be more mature and steady. The Dead gave a lot of EXP, and plus Lin Jie was quite methodical during the search for targets, he killed nine Dead without using any supplies. His bag had nine more Dead's last thoughts and twelve bone ashes which could sell around four copper coins.</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T154445Z" creationid="User" creationdate="20181118T153454Z">
+        <seg>Lin Jie put the Dead's last thoughts into his bag before looking for the next target. He aimed to be steady, not fast. Re-born once made Lin Jie to be more mature and steady. The Dead gave a lot of XP, and plus Lin Jie was quite methodical during the search for targets, he killed nine Dead without using any supplies. His bag had nine more Dead's last thoughts and twelve bone ashes which could sell around four copper coins.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8337,8 +8337,8 @@ Despite this, after researching for a single day, no matter what ideas he could 
       <tuv lang="ZH-CN">
         <seg>时间一分一秒过去，林杰利用卡位和身体诱饵消磨着稀有精英的生命值。成功近在咫尺，经验和装备唾手可得！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181118T154719Z" creationid="User" creationdate="20181118T154719Z">
-        <seg>Time passed. By boxing out the Dead while using himself as bait, Lin Jie slowly decreased the health of the rare Elite Dead. Success was within near and those EXP and equipments were within reach.</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T154545Z" creationid="User" creationdate="20181118T154719Z">
+        <seg>Time passed. By boxing out the Dead while using himself as bait, Lin Jie slowly decreased the health of the rare Elite Dead. Success was within near and those XP and equipments were within reach.</seg>
       </tuv>
     </tu>
     <tu>
