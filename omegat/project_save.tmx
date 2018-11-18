@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“你击杀了迷失士兵麦尔，你获得经验值2100（越级击杀），你获得梅尔小镇声望100.”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T151626Z" creationid="User" creationdate="20181118T151626Z">
+        <seg>--"You have slain the Lost Soldier Myer, 200 EXP gained (Defeat higher level monster), and 100 Mayer Town's Reputation gained."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“玩家银盾的小队对你发动恶意攻击，你有20分钟的正当防卫时间！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T084801Z" creationid="crystalchua" creationdate="20181120T084801Z">
@@ -3334,6 +3342,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“轰——”稀有精英的尸体重重倒了下去！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T151002Z" creationid="User" creationdate="20181118T151002Z">
+        <seg>"Boom--" The rare Elite Dead fell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“轰！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180905T065347Z" creationid="USER" creationdate="20180803T073510Z">
@@ -6170,6 +6186,14 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T152345Z" creationid="User" creationdate="20181118T152345Z">
         <seg>He could only take a gamble. He bet on the Dead would have another normal strike. He could only win in that way. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>叮~</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T151016Z" creationid="User" creationdate="20181118T151016Z">
+        <seg>Ding--</seg>
       </tuv>
     </tu>
     <tu>
