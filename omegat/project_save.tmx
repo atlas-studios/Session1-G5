@@ -3840,6 +3840,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一个硕大的数字跳了出来！对怪物弱点进行攻击能够附加15%到40%的伤害值，再加上暴击伤害，林杰一击干掉了稀有精英4%的生命值！稀有精英吃痛，拔出武器继续攻击，再次被林杰引向大树！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T154103Z" creationid="User" creationdate="20181118T154103Z">
+        <seg>A huge number jumped out! Attacking the critical points of monsters would increased the damage dealt by 15%-40% and together with critical damage, Lin Jie took away 4% of the Dead's HP in a single blow! Injured, the dead pulled out its weapon and continued to attacked Lin Jie but was directed to the trees again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一个身着朴素长袍，双手拄着一把华丽狭长的七彩神剑，很随意地坐在石梯上的老人。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005603Z" creationid="USER" creationdate="20180803T100231Z">
@@ -15524,6 +15532,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>－20！（弱点攻击，暴击）</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T153447Z" creationid="User" creationdate="20181118T153447Z">
+        <seg>-20! (Critical strike)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>－21！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T085658Z" creationid="crystalchua" creationdate="20181120T085658Z">
@@ -15544,6 +15560,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T091613Z" creationid="crystalchua" creationdate="20181120T091613Z">
         <seg>- 5!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－8！－7！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T153430Z" creationid="User" creationdate="20181118T153430Z">
+        <seg>-8! -7!</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
