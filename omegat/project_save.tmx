@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“咔嚓——”长久没有活动的骨骼发出一声声碰撞声响，骸骨拖着空洞的身体站了起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181118T150322Z" creationid="User" creationdate="20181118T150322Z">
+        <seg>"Ka cha..." The bones that had not been moving creaked and its empty body stood up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“咔嚓！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180825T201104Z" creationid="USER" creationdate="20180807T130125Z">
