@@ -3222,6 +3222,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“还愣着干什么？攻击！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="LB" changedate="20181119T073220Z" creationid="LB" creationdate="20181119T073159Z">
+        <seg>"What are you waiting for? Attack!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“还愣着干什么？滚出去，别影响老夫炼丹……这江松看来是活腻了，上个茅房也上那么久？这回火竟还要老夫亲自动手……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055721Z" creationid="Joey" creationdate="20180811T195230Z">
@@ -14483,8 +14491,8 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>那边站立的黑衣少女看到江逸有危险，立即冷面朝战无双说道，两人接到钱万贯的传信一直关注着江逸。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="LB" changedate="20181119T054734Z" creationid="LB" creationdate="20181119T054647Z">
-        <seg>The girl in black standing over there said to Zhan Wushuang with a cold stare.</seg>
+      <tuv lang="EN-US" changeid="LB" changedate="20181119T073209Z" creationid="LB" creationdate="20181119T054647Z">
+        <seg>\The girl in black standing over there said to Zhan Wushuang with a cold stare.</seg>
       </tuv>
     </tu>
     <tu>
