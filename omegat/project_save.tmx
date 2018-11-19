@@ -2186,6 +2186,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“战无双，你还不动手帮他？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="LB" changedate="20181119T053348Z" creationid="LB" creationdate="20181119T053348Z">
+        <seg>"Zhan Wushuang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“扑通！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180807T153310Z" creationid="Joey" creationdate="20180807T153310Z">
