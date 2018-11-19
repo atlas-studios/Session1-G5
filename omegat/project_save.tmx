@@ -2306,6 +2306,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“是你？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="LB" changedate="20181119T071732Z" creationid="LB" creationdate="20181119T071732Z">
+        <seg>"It's you?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“是啊，这位大爷快进去吧，我们家烟火姑娘最近可是学会了一种新的玩法，叫吹箫弄月，可舒坦了……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180819T075659Z" creationid="USER" creationdate="20180807T095839Z">
@@ -3812,8 +3820,8 @@ He always felt that the greatest motivation for him—the reason why he could en
       <tuv lang="ZH-CN">
         <seg>一片目光扫了过来，两边的人虽然多，但是铸鼎境九重的武者每边也只有十来个，如果江逸轻松能一招重创一名铸鼎境九重武者，那么胜利的天秤将会立即朝这边倾泻。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="LB" changedate="20181119T065853Z" creationid="LB" creationdate="20181119T065354Z">
-        <seg>They glanced over. Although both sides had many people, but there was only about ten martial artist from each side that have actually reached the ninth stage of the Cast Tripod Realm. If Jiang Yi can easily take down a martial artist who had reached the ninth stage of the Cast Tripod Realm with a single blow, the scale of victory would immediately tilt towards this side. </seg>
+      <tuv lang="EN-US" changeid="LB" changedate="20181119T070025Z" creationid="LB" creationdate="20181119T065354Z">
+        <seg>They glanced over. Although both sides had many people, but there were only about ten martial artist from each side that had actually reached the ninth stage of the Cast Tripod Realm. If Jiang Yi could easily take down a martial artist who had reached the ninth stage of the Cast Tripod Realm with a single blow, the scale of victory would immediately tilt towards this side. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4666,14 @@ He had consumed all five strands of black essence force he had previously cultiv
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005638Z" creationid="USER" creationdate="20180803T123606Z">
         <seg>He presided over the Heavenly Court, ruling the various worlds for as long as seven thousand years. As the Celestial Thearch was nameless, people eventually addressed him as the Nine-Yang Celestial Thearch in his twilight years due to his extreme attainment in the martial realm of Yang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他境界提升到铸鼎境五重，融合黑色元力力气已经达到了九马之力，可比铸鼎境九重武者，偷袭之下重创一名铸鼎境七重的武者太简单了……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="LB" changedate="20181119T071716Z" creationid="LB" creationdate="20181119T071716Z">
+        <seg>He was already at the fifth stage of the Cast Tripod Realm and with the fusion of the black essence forces, he can match a martial artist who had reached the ninth stage of the Cast Tripod Realm. It was easy to silently strike a martial artist who had reached the seventh stage of the Cast Tripod Realm heavily.\</seg>
       </tuv>
     </tu>
     <tu>
@@ -7796,8 +7812,8 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
       <tuv lang="ZH-CN">
         <seg>接下来的场景，让战无双和黑衣少女还有躲在灌木丛中的小胖子惊呆了。江逸突然拍出一掌，一股强大的元力爆炸开来，那铸鼎境九重的武者竟一招都挡不住，直接被炸得半死。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="LB" changedate="20181119T065736Z" creationid="LB" creationdate="20181119T063715Z">
-        <seg>what happened next shocked Zhan Wushuang, the girl in black and little fatty. Jiang Yi thrust his palm forward and released a huge wave of essence force which exploded. That master artist who achieved the ninth stage of the Cast Tripod Realm could not even take a single blow and the impact left him half dead. </seg>
+      <tuv lang="EN-US" changeid="LB" changedate="20181119T065933Z" creationid="LB" creationdate="20181119T063715Z">
+        <seg>what happened next shocked Zhan Wushuang, the girl in black and little fatty. Jiang Yi thrust his palm forward and released a huge wave of essence force which exploded. That master artist who had reached the ninth stage of the Cast Tripod Realm could not even take a single blow and the impact left him half dead. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9559,8 +9575,8 @@ However, at that moment, Elder Liu suddenly shouted from inside the room, "Jiang
       <tuv lang="ZH-CN">
         <seg>江逸凭借爆元掌重创一人，身子并没有片刻停歇，携带刚才之威，在附近一名铸鼎境七重武者还没反应之前，再次狠狠一拳把一人砸飞。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="LB" changedate="20181119T065612Z" creationid="LB" creationdate="20181119T065612Z">
-        <seg>Jiang Yi did not stop after he used </seg>
+      <tuv lang="EN-US" changeid="LB" changedate="20181119T071034Z" creationid="LB" creationdate="20181119T065612Z">
+        <seg>Jiang Yi did not stop after he used Explosive Essence Palm to inflict serious damages on one man, before a martial artist who reached the seventh stage of the Cast Tripod Realm could react, he landed a heavy blow on him such that he flew. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11965,6 +11981,14 @@ At the moment of impact, that martial artist at the third stage of the Cast Trip
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180817T044252Z" creationid="Joey" creationdate="20180817T044252Z">
         <seg>Jiang Yi flew over and pulled Jiang Xianu's hand, his face filled with guilt and regret. Immediately being reminded of something, he grinned widely as he said,"Xiao Nu, let's go home. I have something good to show you, and I have a piece of extremely good news to tell you."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江麒麟看了江逸一阵，开始看他的身子有些眼熟，很快想起爆元掌，幡然醒悟暴怒大喝起来：“我杀了你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="LB" changedate="20181119T072722Z" creationid="LB" creationdate="20181119T072722Z">
+        <seg>Jiang Qilin stared at JIang Yi for some time and started to find him familiar. He quickly remembered </seg>
       </tuv>
     </tu>
     <tu>
