@@ -8459,6 +8459,15 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林杰冷漠的注视着他们，银盾的名字呈淡红色，至少杀死了3个以上的平民。当玩家恶意击杀他人时，将会进入红名状态，在此状态下被击杀，会受到额外惩罚：等级下降，爆率大增等等。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T162642Z" creationid="crystalchua" creationdate="20181120T162642Z">
+        <seg>Lin Jie looked at them coldly. Silver Shield's name was in a light red color, which indicates that he killed at least 3 civilians. When a player maliciously kills someone, their names will turn red. If they are killed in this state, they will be subjected to additional penalties: such as a drop in level, increasing of burst rate, etc. 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林杰嘴角一勾，使用白板武器的战士能有多少伤害？何况自己有护腕护体，除非对方也有青铜装备，否则根本不可能杀死自己！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T095842Z" creationid="crystalchua" creationdate="20181120T095842Z">
@@ -8493,8 +8502,8 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       <tuv lang="ZH-CN">
         <seg>林杰眼神一寒，这才开服多久？就有人包场？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T065205Z" creationid="crystalchua" creationdate="20181120T053917Z">
-        <seg>Lin Jie's gazed turned cold, how long does it take to open a server? How long does it take to dominate a server? </seg>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T162218Z" creationid="crystalchua" creationdate="20181120T053917Z">
+        <seg>Lin Jie's gaze turned cold, how long does it take to open a server? How long does it take to dominate a server? </seg>
       </tuv>
     </tu>
     <tu>
@@ -12492,8 +12501,8 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       <tuv lang="ZH-CN">
         <seg>由于蹒跚森林的树木极为干瘦且没有枝叶生长，林杰很快就被发现了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T073718Z" creationid="crystalchua" creationdate="20181120T073718Z">
-        <seg>As the trees in the forest were extremely thin with no branches and leaves growing, Lin Jie was soon discovered.
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T162306Z" creationid="crystalchua" creationdate="20181120T073718Z">
+        <seg>As the trees in the forest were extremely thin with no branches or leaves growing, Lin Jie was soon discovered.
 </seg>
       </tuv>
     </tu>
@@ -13683,8 +13692,8 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       <tuv lang="ZH-CN">
         <seg>若是没有看错，银盾手中的盾牌也是青铜级！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T072728Z" creationid="crystalchua" creationdate="20181120T072728Z">
-        <seg>If we are not mistaken, the shield in Silver Shield's hands is also bronze! </seg>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T162253Z" creationid="crystalchua" creationdate="20181120T072728Z">
+        <seg>If we are not mistaken, the shield in Silver Shield's hands is also made of bronze! </seg>
       </tuv>
     </tu>
     <tu>
