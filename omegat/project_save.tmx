@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“剑气！”林杰身体尚未出现，长剑已经划在一个战士的脖子上！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T085653Z" creationid="crystalchua" creationdate="20181120T085653Z">
+        <seg>"Sword key!" Lin Jie hasn't appeared. The sword has been placed on the neck of a soldier! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“力量果然是增大不少，否则绝对砸不裂这青石板，至少有两马之力的加成！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T013707Z" creationid="USER" creationdate="20180806T134435Z">
@@ -15183,6 +15191,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180818T151331Z" creationid="USER" creationdate="20180807T080727Z">
         <seg>Just like how dragons had a reverse scale, which would cause death upon contact, one would definitely get themselves killed if they rubbed somebody the wrong way!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－21！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T085658Z" creationid="crystalchua" creationdate="20181120T085658Z">
+        <seg>- 21! </seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
