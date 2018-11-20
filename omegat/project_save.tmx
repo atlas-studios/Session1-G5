@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“玩家银盾的小队对你发动恶意攻击，你有20分钟的正当防卫时间！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T084801Z" creationid="crystalchua" creationdate="20181120T084801Z">
+        <seg>"The Silver Shield squad launched an hostile attack on you, you have 20 minutes of defense time!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180814T162010Z" creationid="Joey" creationdate="20180814T162010Z">
@@ -7915,6 +7923,14 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>攻击判定已经形成！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T084107Z" creationid="crystalchua" creationdate="20181120T084107Z">
+        <seg>Judgement of attack has been formed!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>敢来风月楼闹事，他可不管这少年是谁先打了再说，铸鼎境一重在铸鼎境二重的他看来……屁都不是。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180819T082417Z" creationid="USER" creationdate="20180807T125255Z">
@@ -8399,6 +8415,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T151539Z" creationid="User" creationdate="20181118T151539Z">
         <seg>Lin Jie held the Dead-Rattle Serum with his brows kniited. He searched for a right target. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰沉声定气，半个身体靠在树干之上，在战士冲锋的瞬间后侧半步，两个战士收不住冲势，咣当一声撞到树干上！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T083731Z" creationid="crystalchua" creationdate="20181120T083658Z">
+        <seg>Lin Jie calmed himself down, while leaning half of his body onto the tree trunk. The two soldiers couldn't develop their momentum, they collided onto the tree trunk!</seg>
       </tuv>
     </tu>
     <tu>
