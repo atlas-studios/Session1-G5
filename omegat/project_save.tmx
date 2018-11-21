@@ -3288,8 +3288,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“该死。”银盾怒骂，开启援护，瞬间出现在队友面前！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T163822Z" creationid="crystalchua" creationdate="20181120T163822Z">
-        <seg>"Darn it!" Silver Shield said in anger,  </seg>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181121T153119Z" creationid="crystalchua" creationdate="20181120T163822Z">
+        <seg>"Darn it!" Silver Shield said in anger, he used an aid and appeared in front of his team mates instantly!  </seg>
       </tuv>
     </tu>
     <tu>
@@ -7613,6 +7613,14 @@ This had rung especially true in the past few years. For him, being “a young m
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>当——</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181121T153124Z" creationid="crystalchua" creationdate="20181121T153124Z">
+        <seg>"Clash--"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>当下他什么也不顾了，立即盘坐打坐运转无名功法提炼黑色元力。这黑色元力消耗太快太快了，关键的时候总是不够用。这次他准备多存点，一次提炼四五个时辰，不睡觉直接修炼到天亮，尽可能的提炼多一些，好明早一次性把伤势彻底恢复。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055446Z" creationid="Joey" creationdate="20180811T154905Z">
@@ -8768,6 +8776,14 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       </tuv>
       <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T083731Z" creationid="crystalchua" creationdate="20181120T083658Z">
         <seg>Lin Jie calmed himself down, while leaning half of his body onto the tree trunk. The two soldiers couldn't develop their momentum, they collided onto the tree trunk!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林杰的攻击被银盾挡了下来，巨大的力量震得银盾虎口生疼。银盾若是没点本事怎么能混成铁壁帝国团长？不仅拥有青铜盾牌，还有援护技能，相当强大！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181121T154910Z" creationid="crystalchua" creationdate="20181121T154910Z">
+        <seg>Lin Jie’s attack was blocked Silver Shield, the huge force from the attack left Silver Shield in pain. If Silver Shield does not have any abilities, how did he manage to be the head of the Iron Wall Empire? He does not only have a bronze shield, he also has aiding skills, he is relatively powerful!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15712,6 +15728,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T150953Z" creationid="User" creationdate="20181118T150953Z">
         <seg>-10!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>－10！（格挡）</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181121T153129Z" creationid="crystalchua" creationdate="20181121T153129Z">
+        <seg>- 10! </seg>
       </tuv>
     </tu>
     <tu>
