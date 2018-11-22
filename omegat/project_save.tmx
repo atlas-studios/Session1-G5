@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“你使用亡语药剂成功奴役了【蹒跚的尸体】。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T152015Z" creationid="User" creationdate="20181122T151852Z">
+        <seg>-- "You have successfully use the Dead-Rattle Serum to enslave [Staggering Corpse]." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“你击杀了迷失士兵麦尔，你获得经验值2100（越级击杀），你获得梅尔小镇声望100.”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T154605Z" creationid="User" creationdate="20181118T151626Z">
@@ -4060,6 +4068,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T010204Z" creationid="USER" creationdate="20180804T051151Z">
         <seg>The legend of a generation, the invincible Nine-Yang Celestial Thearch, had come to an end. The cycle of Samsara slowly pulled opened the curtains of a new beginning…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一具干枯的骸骨站起来，被林杰一把推到身前，抗住武士精英的伤害！林杰破釜沉舟，利用亡语药剂的效果成功拯救了自己！有了奴仆抗伤害，林杰开始以奴仆进行卡位，对武士精英进行输出！每当精英攻击，伤害总是落到奴仆身上！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T152650Z" creationid="User" creationdate="20181122T152650Z">
+        <seg>A dried corpse stood up and Lin Jie pushed it to the front to block the Elite's damage. Lin Jie last desperate efforts had saved him! He made use of the servant to take the damage and attacked the Elite. When the Elite strikes, it will always land on the servant. </seg>
       </tuv>
     </tu>
     <tu>
