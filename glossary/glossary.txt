@@ -1015,3 +1015,4 @@
 牧师	Priest
 暗言术	Shadow word
 剑气	Sword Qi
+矮人	Drawf
