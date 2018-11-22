@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——————————</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181122T163119Z" creationid="crystalchua" creationdate="20181122T163119Z">
+        <seg>------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“你使用亡语药剂成功奴役了【蹒跚的尸体】。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181122T152015Z" creationid="User" creationdate="20181122T151852Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181023T151623Z" creationid="tianqi" creationdate="20181023T151623Z">
         <seg>"What? You are quitting? And leaving for three months?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“他太过自傲，打击一下也好！剔除银盾团长职位，让他给我消停一点！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181122T163111Z" creationid="crystalchua" creationdate="20181122T163111Z">
+        <seg>"He was too proud, agitating him would also be good! Removing Silver Shield from his leader position would teach him a lesson!" </seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2558,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T014227Z" creationid="USER" creationdate="20180807T085614Z">
         <seg>"Chunya, return first,” he instructed quickly. “Remember, don't breathe a single word of this to anyone!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“是……那银盾团长……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181122T163013Z" creationid="crystalchua" creationdate="20181122T163013Z">
+        <seg>"Yes... That is Leader Silver Shield..."</seg>
       </tuv>
     </tu>
     <tu>
