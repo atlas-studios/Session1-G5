@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“你进入牧亡灵湖彼岸。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T152653Z" creationid="User" creationdate="20181122T152653Z">
+        <seg>--"You have entered the Lake of the Dead."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“玩家银盾的小队对你发动恶意攻击，你有20分钟的正当防卫时间！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="crystalchua" changedate="20181120T084801Z" creationid="crystalchua" creationdate="20181120T084801Z">
@@ -9190,8 +9198,8 @@ He only remembered Jiang Yi when he reached the main door. Turning around and ta
       <tuv lang="ZH-CN">
         <seg>林杰虽然学习了剑气斩，但是身上装备不完整，输出和防御能力并不高。若是对上属性较强的亡灵甚至精英亡灵就只有死路一条！良久之后，一具浑身破烂布衣的骸骨落入眼帘——它身上不仅没有衣物包裹，甚至连双手都已经被碾碎，林杰一喜，将亡语药剂滴落在尸体上。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181118T150005Z" creationid="User" creationdate="20181118T155305Z">
-        <seg>Although Lin Jie had learned Sword Qi Cleave, his equipments were not complete, his attack and defence were not strong enough. If he were to fight a Dead with strong attributes or worse, a Elite Dead, he had no chance of survival. After some time, he saw a corpse wearing ragged clothes. It was almost naked and its hands were crushed. Lin Jie was elated, he dripped a drop serum onto the corpse.</seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T152832Z" creationid="User" creationdate="20181118T155305Z">
+        <seg>Although Lin Jie had learned Sword Qi Cleave, his equipments were not complete, his attack and defence were not strong enough. If he were to fight a Dead with strong attributes, or worse, a Elite Dead, he had no chance of survival. After some time, he saw a corpse wearing ragged clothes. It was almost naked and its hands were crushed. Lin Jie was elated, he dripped a drop serum onto the corpse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15298,8 +15306,8 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       <tuv lang="ZH-CN">
         <seg>这么说来，阿拉所需求的死灵残念根本不止那么点？林杰心中一喜，任何一个人进行同一个任务得到的遭遇都是不同的，这个药剂至少表明，自己开发任务更加彻底！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="User" changedate="20181118T155344Z" creationid="User" creationdate="20181118T154146Z">
-        <seg>This means that Arathor requires much more of the Dead's last thoughts? This joyed Lin Jie. For the same task, different palyers would received different treatments. This vial of serum shows that his task is more developed! </seg>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T152809Z" creationid="User" creationdate="20181118T154146Z">
+        <seg>This means that Arathor requires much more of the Dead's last thoughts? This joyed Lin Jie. For the same task, different players would received different treatments. This vial of serum shows that his task is more developed! </seg>
       </tuv>
     </tu>
     <tu>
