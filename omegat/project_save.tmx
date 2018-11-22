@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>——“你击杀了恶意攻击者，获得1点光明联盟声望。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="crystalchua" changedate="20181122T162317Z" creationid="crystalchua" creationdate="20181122T162317Z">
+        <seg>"You have killed a malicious attacker and gained 1 reputation point. ”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>——“你击杀了迷失士兵麦尔，你获得经验值2100（越级击杀），你获得梅尔小镇声望100.”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T154605Z" creationid="User" creationdate="20181118T151626Z">
