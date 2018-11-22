@@ -1370,6 +1370,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“喂……谢谢。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T155339Z" creationid="User" creationdate="20181122T155339Z">
+        <seg>"Hey... thanks."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“喝！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T150653Z" creationid="Joey" creationdate="20180917T150653Z">
@@ -13426,6 +13434,14 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       </tuv>
       <tuv lang="EN-US" changeid="User" changedate="20181118T154654Z" creationid="User" creationdate="20181118T154654Z">
         <seg>Since Qiu Yuan was here with her Looming Staff, then she should have accepted the post task of [Heart of Spectre]--Collect bone ashes! Bone ashes were not expensive but the drop rate was very low, and could only appear in here. When the task was accepted, NPC will teleport the player to the Lake of the Dead. Monster will not be regenerated here so players would have to find four Talisman Circle to have the power of reviving corpses temporarily.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>秋远点了点林杰的后背，声音轻得像蚊子叫一般。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="User" changedate="20181122T150454Z" creationid="User" creationdate="20181122T150454Z">
+        <seg>Qiu Yuan tapped on Lin Jie and said, her voice was so soft . </seg>
       </tuv>
     </tu>
     <tu>
